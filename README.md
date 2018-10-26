@@ -3,7 +3,7 @@
 This is the human-annotated AI2 Reasoning Challenge (ARC) dataset from the following paper:
 
 ```sh
-A Systematic Classification of Knowledge, Reasoning, and Context within the ARC Dataset [pdf] 
+A Systematic Classification of Knowledge, Reasoning, and Context within the ARC Dataset 
 Boratko, M.; Padigela, H.; Mikkilineni, D.; Yuvraj, P.; Das, R.; McCallum, A.; Chang, M.; Fokoue, A.; Kapanipathi, P.; Mattei, N.; Musa, R.; Talamadupula, K.; and Witbrock, M.
 ACL 2018 Machine Reading for Question Answering (MRQA) Workshop
 ```
