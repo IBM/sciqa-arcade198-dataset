@@ -1,6 +1,6 @@
 # AI2 Reasoning Challenge Annotated Dataset (ARCADE198)
 
-This is the human-annotated AI2 Reasoning Challenge (ARC) dataset from the following paper:
+This is the human-annotated AI2 Reasoning Challenge (ARC) dataset (ARCADE198) from the following paper:
 
 ```sh
 A Systematic Classification of Knowledge, Reasoning, and Context within the ARC Dataset 
@@ -8,7 +8,7 @@ Boratko, M.; Padigela, H.; Mikkilineni, D.; Yuvraj, P.; Das, R.; McCallum, A.; C
 ACL 2018 Machine Reading for Question Answering (MRQA) Workshop
 ```
 
-The dataset was generated using the annotation system from:
+The ARCADE198 dataset was generated using the annotation system from:
 
 ```sh 
 An Interface for Annotating Science Questions 
@@ -16,7 +16,7 @@ Boratko, M.; Padigela, H.; Mikkilineni, D.; Yuvraj, P.; Das, R.; McCallum, A.; C
 EMNLP 2018 System Demonstration Program.
 ```
 
-# Use of the Dataset
+# Use of the ARCADE198 Dataset
 
 To use this dataset, please:
 
@@ -44,4 +44,4 @@ Year = {2018}}
 
 # Link to Dataset
 
-Please download here: [Dataset](https://github.com/IBM/sciqa-arcade198-dataset/blob/master/mrqa-final-dataset-anon.tsv)
+Please download here: [ARCADE198 Dataset](https://github.com/IBM/sciqa-arcade198-dataset/blob/master/mrqa-final-dataset-anon.tsv)
