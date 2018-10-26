@@ -41,3 +41,7 @@ Year = {2018}}
   ```
 
 * Please send an email to [Kartik Talamadupula](mailto:krtalamad@us.ibm.com) describing your use of the dataset.
+
+# Link to Dataset
+
+Please download here: [Dataset](https://github.com/IBM/sciqa-arcade198-dataset/blob/master/mrqa-final-dataset-anon.tsv)
