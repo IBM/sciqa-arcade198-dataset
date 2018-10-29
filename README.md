@@ -45,3 +45,7 @@ Year = {2018}}
 # Link to Dataset
 
 Please download here: [ARCADE198 Dataset](https://github.com/IBM/sciqa-arcade198-dataset/blob/master/mrqa-final-dataset-anon.tsv)
+
+# Blogpost
+
+Here is a [blogpost](https://www.ibm.com/blogs/research/2018/08/complex-question-answering/) that describes the dataset, and talks a bit more about the associated work.
